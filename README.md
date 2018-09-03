@@ -1,2 +1,1 @@
-# Python-NLTK-Sentiment-Analysis.
-Sentiment anlysis using python , NLTK 
+# Python-NLTK-ML-LSTM  Sentiment-Analysis. 
